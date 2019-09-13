@@ -1,0 +1,190 @@
+#legand{
+  width: 25%;
+}
+a {
+  color: #ff0000;
+}
+
+body{
+  background-image: url("../Images/japanese-pictures/dragon.jpg");
+  background-size: cover;
+  background-repeat: no-repeat, repeat;
+  text-align:center;
+  font-family: fantasy;
+  background-position: 0 0;
+  /* background-size: 100% 100%; */
+
+}
+#home-body{
+
+  background-size:auto;
+
+  background-position: 0 0;
+  background-size: 100% 100%;
+
+}
+h1{
+  color: #ff0000;
+  font-size: 50px;
+}
+.navbar{
+  background-color: #1b7fbd;
+  overflow: hidden;
+  margin:auto;
+  width: 100%
+}
+.inner-navbar{
+  width: 80%;
+  margin: 0 auto;
+}
+.navbar a{
+  float: left;
+  color: #ff0000;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px
+
+}
+.navbar a:hover{
+background-color: #23eae6;
+color: #ff0000;
+text-align: center;
+
+}
+.navbar .active{
+background-color: #1b7fbd;
+color: #ff0000;
+}
+p{
+  color: #ff0000;
+  font-size: 16.5px;
+}
+.myBros {
+  border: 5px solid #1b7fbd;
+  margin-left: 100px;
+}
+p{
+  color: #ff0000;
+}
+th {
+  text-align: center;
+  font-size: 23px;
+}
+p{
+  font-size: 17px;
+}
+.p1{
+  font-size: 50px;
+  text-align: center;
+  color: #ff0000;
+}
+.Col0rM3{
+  border: 5px solid #ff0000;
+  margin-right: 10px;
+  font-size: 23px;
+}
+.p2{
+  font-size: 40px;
+  color: #ff0000;
+}
+.p3{
+  font-size: 35px;
+  color: blue;
+}
+.p4{
+  color: #ff0000;
+  font-size: 18px;
+  font-family: 'Cinzel', serif;
+}
+.hi3{
+  color: #ff0000;
+  font-size: 70px;
+}
+.sleep{
+  color: #ff0000;
+}
+.bye{
+  color: #ff0000;
+  font-size: 30px ;
+}
+.dog{
+  color: #ff0000;
+  font-size: 30px
+}
+.red{
+  display: inline-block;
+}
+.red input:hover{
+  background-color: #1b7fbd;
+  color: #ff0000;
+  text-align: center;
+border: none;
+}
+.red{
+  background-color: #1b7fbd;
+  color: #ff0000;
+}
+.batboy{
+  color: #ff0000;
+  border: 10px solid #1b7fbd;
+  opacity: 0.7;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.hotrad{
+  color: #ff0000;
+  font-size: 18px
+}
+#Legands{
+  height: 200px ;
+  width: 300px ;
+}
+.Rogdog{
+  font-size: 18px;
+  text-align: center;
+}
+.manbat{
+  font-size: 20px;
+  color: red;
+  text-decoration: underline;
+}
+.drum{
+  width: 25%;
+  margin-right: 900px;
+}
+h2{
+  font-size: 20px;
+  color: red;
+  text-decoration: underline;
+}
+.was{
+  font-size: 90px
+  font-family: 'Cinzel', serif;
+}
+.marlon{
+  color:#ff0000;
+  font-size: 25px;
+}
+.size{
+  color: #ff0000;
+}
+.SAO{
+  font-size: 30px ;
+  color: #ff0000 ;
+}
+.home-images img{
+  border-radius:50%;
+  width: 400px;
+  height: 400px;
+}
+img{
+margin: 0px;
+padding: 0px;
+border: 0px;
+}
+.good{
+  font-size: 35px;
+}
+.dude{
+  color:#ff0000 ;
+  font-size: 35px ;
+}
